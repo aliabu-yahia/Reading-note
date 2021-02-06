@@ -9,3 +9,4 @@ Read: 03 |HTML Lists, CSS Boxes, JS Control Flow |
 Read: 04 | HTML Links, CSS Layout, JS Functions|
 Read: 05 | HTML Images; CSS Color & Text|
 
+That is so funny! :heartpulse:

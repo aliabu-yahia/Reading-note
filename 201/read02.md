@@ -17,7 +17,7 @@ p        |  used for shorter quotes that sit within a paragraph
 
 ------------------------
 ## Chapter 10 (from Duckett HTML book )
-We have three type to to add css code :
+We have three type to add css code :
 * Inline CSS
 * Internal CSS
 * External CSS

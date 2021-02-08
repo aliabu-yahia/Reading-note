@@ -10,6 +10,7 @@ We have three type of list:
 Nested Lists : used to add list inside another list.
 
 -------------------------
+
 ## Chapter 13 (from Duckett HTML book )
 
 
@@ -36,6 +37,7 @@ var manes = ['ali','khamess' ,'abuyahia'];
 when we print names[0] it print ali
 
 when we print names[1] it print khames
+
 -------------------------------------
 ## Chapter 4 (From the Duckett JS book)
 

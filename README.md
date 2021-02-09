@@ -23,7 +23,7 @@ Read no  | Topic                                                          |link
 -----    |-----                                                           |-----
 Read: 01 | Introductory HTML and JavaScript                               |[link](201/read01.md)
 Read: 02 | HTML Text, CSS Introduction, and Basic JavaScript Instructions |[link](201/read02.md)
-Read: 03 |HTML Lists, CSS Boxes, JS Control Flow                          | [link]()
+Read: 03 |HTML Lists, CSS Boxes, JS Control Flow                          | [link](201/read03.md)
 Read: 04 | HTML Links, CSS Layout, JS Functions                           |[link]()
 Read: 05 | HTML Images; CSS Color & Text                                  |[link]()
 

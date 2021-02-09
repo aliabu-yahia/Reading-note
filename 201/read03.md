@@ -13,10 +13,21 @@ Nested Lists : used to add list inside another list.
 
 ## Chapter 13 (from Duckett HTML book )
 
-All element in HTML have a box in CSS.
+All element in HTML have **a box** in CSS, we used (width, height) to select box Dimensions 
 
 
-
+ code  | It work
+-------- |----------
+ overflow: hidden | hides any extra content that does not fit in the box.
+ overflow: scroll | add a scrollbar to the box so that users can scroll to see the missing content.
+border-width        | control the width of a border. 
+border-style        |control the style of a border like (solid,dotted and dashed)
+ border-color   |specify the color of a border 
+ visibility: hidden|This hides the element
+ box-shadow       |to add a drop shadow around a box
+border-radius        |create rounded corners on any box
+        
+   
 
 
 

@@ -55,18 +55,28 @@ The driver: is the programmer who is typing and the only one whose hands are on 
 Navigator : person who is uses their words to guide the Driver but does not provide any direct input to the computer.
 
 Pair program touches on all *four skills* :
+
 1- Listening: hearing and interpreting the vocabulary
+
 2- Speaking: using the correct words to communicate an idea 
+
 3- Reading: understanding what written language intends to convey 
+
 4-  Writing: producing from scratch a meaningful
 
 
 Why pair program?
+
 1- Greater efficiency
+
 2- Engaged collaboration
+
 3- Learning from fellow students
+
 4- Social skills
+
 5- Job interview readiness
+
 6- Work environment readiness
 
 

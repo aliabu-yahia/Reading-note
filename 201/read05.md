@@ -62,6 +62,15 @@ In CSS there are five generic font families:
 5-Fantasy fonts are decorative/playful fonts.
 
 
+code          | what it do
+-----         |---------
+font-family   |specify the typeface that should be used for any text inside the element
+font-size     |specify a size for the font
+font-weight   |create bold text
+font-style    |create italic text
+text-transform|change the case of text between ( uppercase,lowercase,capitalize) 
+text-align    |control the alignment of text
+
 
 
 

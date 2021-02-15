@@ -17,6 +17,64 @@ When we building domain models:
 5-Store the newly created object in a variable so you can access its properties and methods from outside.
 
 6-Use the this variable within methods so you can access the object's properties and methods from inside.
+
 ------------------------------------
 
-## Chapter 3 (From the Duckett JS book )
+## Chapter 6 (from Duckett HTML book )
+
+code  | It work
+-------- |----------
+table |to create a table. The contents of the table are written out row by row.
+tr|each row should be strating with it
+td|Each cell of a table is represented using it 
+th|defines a table heading
+
+Spanning Column (colspan="#") #:the number of cells in column spanning
+
+Spanning Row (rowspan="#") #:the number of cells in row spanning
+
+-----------------------------------
+## Chapter 3 (From the Duckett JS book)
+
+creating objects using constructor syntax
+
+function Hotel (name, rooms, booked) {
+
+this.name = name;
+
+this.rooms = rooms;
+
+this.booked = booked;
+
+this.checkAvailability = function()
+
+return this.rooms - this.booked;
+
+} ;
+
+or you can use :
+
+var hotel = new Object();
+
+hotel.name= 'Park';
+
+hotel.rooms = 120;
+
+hotel .booked = 77;
+
+hotel .checkAvailability = function()
+
+return this.rooms - this.booked;
+
+} ; 
+
+* to Removing properties delete function name.objective items;
+
+* we use this when we still inside the objecte
+
+* The array special type of object
+
+
+
+
+        

@@ -1,4 +1,4 @@
-#  HTML Links, JS Functions, and Intro to CSS Layout
+#  HTML Forms and JS Events.
 ----------------------
 ## Chapter 7 (from Duckett HTML book )
 

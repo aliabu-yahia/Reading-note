@@ -30,7 +30,7 @@ Read: 06 | JS Object Literals; The DOM	                                  |[link]
 Read: 07 | HTML Tables; JS Constructor Functions	                        |[link](201/read07.md)
 Read: 08 | More CSS Layout                                                |[link](201/read08.md)
 Read: 09 | Forms and Events                                               |[link](201/read09.md)
-Read: 10 | JS Debugging                                                   |[link](201/read)                                                                        
+Read: 10 | JS Debugging                                                   |[link](201/read10.md)                                                                   
                                                                           
                                                                         
                                                                          

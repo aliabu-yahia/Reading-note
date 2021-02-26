@@ -18,4 +18,14 @@ CSS 2D transforms methods:
 * matrix()
 
 ------------------------------
-## Chapter 15 (from Duckett HTML book )
+##  SIMPLE CSS3 TRANSITIONS
+
+* Fade in :effects are coded in two steps: first, you set the initial state; next, you set the change, for example on hover
+* Change color : change the coler of txet when you do something like hover
+* Grow & Shrink : you can change the size of text to bigger or smaller
+* Rotate elements : you can rotatte the element who many degree and any side
+* Square to circle 
+* 3D shadow
+* Swing
+*  Inset border
+

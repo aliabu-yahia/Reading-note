@@ -19,20 +19,23 @@ reed06  | [link](102/reed06.md)
 ### Code 201 Reading Notes
 
 
-Read no  | Topic                                                          |link
------    |-----                                                           |-----
-Read: 01 | Introductory HTML and JavaScript                               |[link](201/read01.md)
-Read: 02 | HTML Text, CSS Introduction, and Basic JavaScript Instructions |[link](201/read02.md)
-Read: 03 |HTML Lists, CSS Boxes, JS Control Flow                          |[link](201/read03.md)
-Read: 04 | HTML Links, CSS Layout, JS Functions                           |[link](201/read04.md)
-Read: 05 | HTML Images; CSS Color & Text                                  |[link](201/read05.md)
-Read: 06 | JS Object Literals; The DOM	                                  |[link](201/read06.md)
-Read: 07 | HTML Tables; JS Constructor Functions	                        |[link](201/read07.md)
-Read: 08 | More CSS Layout                                                |[link](201/read08.md)
-Read: 09 | Forms and Events                                               |[link](201/read09.md)
-Read: 10 | JS Debugging                                                   |[link](201/read10.md) 
-Read: 11 | Audio, Video, Images                                           |[link](201/read11.md)
-                                                                          
+Read no   | Topic                                                          |link
+-----     |-----                                                           |-----
+Read: 01  | Introductory HTML and JavaScript                               |[link](201/read01.md)
+Read: 02  | HTML Text, CSS Introduction, and Basic JavaScript Instructions |[link](201/read02.md)
+Read: 03  |HTML Lists, CSS Boxes, JS Control Flow                          |[link](201/read03.md)
+Read: 04  | HTML Links, CSS Layout, JS Functions                           |[link](201/read04.md)
+Read: 05  | HTML Images; CSS Color & Text                                  |[link](201/read05.md)
+Read: 06  | JS Object Literals; The DOM	                                   |[link](201/read06.md)
+Read: 07  | HTML Tables; JS Constructor Functions	                         |[link](201/read07.md)
+Read: 08  | More CSS Layout                                                |[link](201/read08.md)
+Read: 09  | Forms and Events                                               |[link](201/read09.md)
+Read: 10  | JS Debugging                                                   |[link](201/read10.md) 
+Read: 11  | Audio, Video, Images                                           |[link](201/read11.md)
+Read: 12  | Chart.js, Canvas                                               |[link](201/read12.md)
+Read: 13  | Local Storage                                                  |[link](201/read13.md)
+Read: 14a | CSS Transforms, Transitions, and Animations                    |[link](201/read14a.md)
+Read: 14b | The Perfect Team                                               |[link](201/read14b.md)
                                                                         
                                                                          
 

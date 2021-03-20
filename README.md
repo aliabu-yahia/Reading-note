@@ -5,7 +5,7 @@ My mane is ali khames I study mechanical engineering in Al- Balqa' Applied Unive
 ## Reading-note
 
 --------------------------
-### code 102 Reading Note
+### code 102 Intro to Software Development
 
 lab no  | link
 -----   |-----
@@ -16,7 +16,7 @@ lab05a  | [link](102/Read05.md)
 reed06  | [link](102/reed06.md)
 
 -------------------------------
-### Code 201 Reading Notes
+### Code 201 Foundations of Software Development
 
 
 Read no   | Topic                                                          |link
@@ -36,7 +36,16 @@ Read: 12  | Chart.js, Canvas                                               |[lin
 Read: 13  | Local Storage                                                  |[link](201/read13.md)
 Read: 14a | CSS Transforms, Transitions, and Animations                    |[link](201/read14a.md)
 Read: 14b | The Perfect Team                                               |[link](201/read14b.md)
-                                                                        
+
+
+-------------------------------
+### Code 301  Intermediate Software Development
+
+
+Read no   | Topic                                                          |link
+-----     |-----                                                           |-----
+Read: 01  | SMACSS and Responsive Web Design                               |[link]
+
                                                                          
 
 That is so funny! :heartpulse:

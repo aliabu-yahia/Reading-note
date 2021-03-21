@@ -44,7 +44,7 @@ Read: 14b | The Perfect Team                                               |[lin
 
 Read no   | Topic                                                          |link
 -----     |-----                                                           |-----
-Read: 01  | RESPONSIVE WEB DESIGN and FLOATS                              |[link](301/read01.md)
+Read: 01  | RESPONSIVE WEB DESIGN and FLOATS                              |[link](read01.md)
 
                                                                          
 

@@ -44,7 +44,7 @@ Read: 14b | The Perfect Team                                               |[lin
 
 Read no   | Topic                                                          |link
 -----     |-----                                                           |-----
-Read: 01  | SMACSS and Responsive Web Design                               |[link]
+Read: 01  | RESPONSIVE WEB DESIGN and FLOATS                              |[link](301/read01.md)
 
                                                                          
 

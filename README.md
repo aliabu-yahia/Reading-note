@@ -45,7 +45,7 @@ Read: 14b | The Perfect Team                                               |[lin
 Read no   | Topic                                                          |link
 -----     |-----                                                           |-----
 Read: 01  | RESPONSIVE WEB DESIGN and FLOATS                              |[link](read01.md)
-Read: 02  | PAIR PROGRAMMING                                              |[link](301/read02.md)
+Read: 02  | jQuery, Events, and The DOM and PAIR PROGRAMMING              |[link](301/read02.md)
                                                                          
 
 That is so funny! :heartpulse:

@@ -49,6 +49,7 @@ Read: 02  | jQuery, Events, and The DOM and PAIR PROGRAMMING              |[link
 Read: 03  | MUSTACHE and FLEXBOX                                          |[link](301/read03.md)
 Read: 04  | CSS GRID                                                      |[link](301/read04.md)
 Read: 05  | HEROKU                                                        |[link](301/read05.md)
+Read: 06  | Node.js                                                       |[link](301/read06.md)
                                                                              
 
 That is so funny! :heartpulse:

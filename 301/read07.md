@@ -1,4 +1,4 @@
-#  jQuery, Events, and The DOM
+#  REST
 ----------------------
 ## How I explained REST to my brother
 

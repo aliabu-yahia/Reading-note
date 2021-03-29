@@ -50,7 +50,7 @@ Read: 03  | MUSTACHE and FLEXBOX                                          |[link
 Read: 04  | CSS GRID                                                      |[link](301/read04.md)
 Read: 05  | HEROKU                                                        |[link](301/read05.md)
 Read: 06  | Node.js                                                       |[link](301/read06.md)
-Read: 07  | REST                                                          |[link](301/read06.md)
+Read: 07  | REST                                                          |[link](301/read07.md)
                                                                              
 
 That is so funny! :heartpulse:

@@ -51,6 +51,6 @@ Read: 04  | CSS GRID                                                      |[link
 Read: 05  | HEROKU                                                        |[link](301/read05.md)
 Read: 06  | Node.js                                                       |[link](301/read06.md)
 Read: 07  | REST                                                          |[link](301/read07.md)
-                                                                             
+Read: 07  | SQL                                                           |[link](301/read08.md)                                                                             
 
 That is so funny! :heartpulse:
